@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Alan Soares 👋
 
-<!--
-**Cruelsoldies/cruelsoldies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+- I'm web developer. and, i'm studying full stack at [Rocketseat] (https://www.rocketseat.com.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Stack
+
+- 📝 Main language: `Javascript`
+- 🚀 Frontend: `HTML5`, `CSS3`, `Javascript`
+- 🎨 Layout designer: `Figma`.
+- 🔨 Tools: `VsCode`
+- 🌐 I'm mostly acyive within the `Rocketseat Community`
+
+### Contacts
+
+- Email: alan_soares300@hotmail.com
+- Linkedin: https://www.linkedin.com/in/alan-soares-2ab5a1238/?locale=en_US
